@@ -1,0 +1,35 @@
+_repo: Ethel-Morton-at-Rose-House_15550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
+    aliases:
+    - Smith, Mabell Shippie Clarke
+    - Pelton, Mabell Shippie Clarke
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '6118'
+    url: http://www.gutenberg.org/2009/agents/6118
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Betrothal -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'New Jersey -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Amusements -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Furniture making -- Juvenile fiction'
+title: Ethel Morton at Rose House
+url: http://www.gutenberg.org/ebooks/15550
